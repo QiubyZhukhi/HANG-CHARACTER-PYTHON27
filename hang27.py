@@ -1,5 +1,5 @@
 #coding:utf8
-#qpy:3
+#qpy:2
 #qpy:console
 import sys
 from androidhelper import Andoid
