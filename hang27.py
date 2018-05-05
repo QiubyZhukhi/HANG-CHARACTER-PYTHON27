@@ -1,10 +1,7 @@
 #coding:utf8
 #qpy:2
 #qpy:console
-import sys
 from androidhelper import Andoid
-reload(sys)
-sys.setdefaultencoding('utf-8')
 text = raw_input("Text: ")
 def pesan(t):
     droid = Android()
